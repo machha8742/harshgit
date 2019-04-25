@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 System.setProperty("webdriver.chrome.driver", "C:\\dev files\\drivers\\chromedriver.exe")	 ;
 maven.ChromeDriver driver = new ChromeDriver();
 //it will open the goggle page
-driver.get("http://google.in");
+driver.get("http://www.google.com");
 //we expect the title “Google “ should be present
 String Expectedtitle = "Google";
 //it will fetch the actual title
