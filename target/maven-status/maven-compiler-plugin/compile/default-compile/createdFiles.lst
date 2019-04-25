@@ -1,0 +1,8 @@
+veda\org\MinimalContextConfig.class
+veda\org\ServletServer.class
+veda\org\GlassFishServletServer.class
+veda\org\TomcatServletServer.class
+veda\org\JettyServletServer.class
+veda\org\Bootstrap.class
+veda\org\MinimalLifecycleListener.class
+veda\org\MinimalErrorReportValve.class
